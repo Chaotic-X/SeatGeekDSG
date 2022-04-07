@@ -13,8 +13,11 @@ class Favorites: ObservableObject {
     
     private let saveKey = "Favorites"
     
+    let defaults = UserDefaults.standard
+    
     init() {
-        self.events = []
+        let loadedArray = defaults.array(forKey: saveKey) as? [Int] ?? [Int]()
+        self.events = Set(loadedArray.map { $0 })
     }
     
     func contains(_ event: Event) -> Bool {
@@ -23,14 +26,22 @@ class Favorites: ObservableObject {
     
     func add(_ event: Event) {
         objectWillChange.send()
+        print(event.id)
         events.insert(event.id)
+        save()
     }
     
     func remove(_ event: Event) {
         objectWillChange.send()
+        print(event.id)
         events.remove(event.id)
+        save()
     }
     
+    func save() {
+        let newArray = Array(self.events)
+        self.defaults.set(newArray, forKey: saveKey)
+    }
     func removeAll() {
         objectWillChange.send()
         events.removeAll()

@@ -54,6 +54,7 @@ struct EventDetails: View {
                         } else {
                             self.isFavorite = true
                             self.favorite.add(self.data)
+                            
                         }
                     }
                     .onAppear(){
