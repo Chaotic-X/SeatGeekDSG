@@ -1,0 +1,2283 @@
+{
+    "events": [
+        {
+            "type": "minor_league_baseball",
+            "id": 5563276,
+            "datetime_utc": "2022-04-06T07:30:00",
+            "venue": {
+                "state": "NY",
+                "name_v2": "NBT Bank Stadium",
+                "postal_code": "13208",
+                "name": "NBT Bank Stadium",
+                "links": [],
+                "timezone": "America/New_York",
+                "url": "https://seatgeek.com/venues/nbt-bank-stadium/tickets",
+                "score": 0.39,
+                "location": {
+                    "lat": 43.0766,
+                    "lon": -76.1652
+                },
+                "address": "1 Tex Simone Drive",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 70,
+                "city": "Syracuse",
+                "slug": "nbt-bank-stadium",
+                "extended_address": "Syracuse, NY 13208",
+                "id": 70,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 555,
+                "capacity": 11117,
+                "display_location": "Syracuse, NY"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Syracuse Mets",
+                    "image": "https://seatgeek.com/images/performers-landscape/syracuse-mets-c5d6a7/9245/huge.jpg",
+                    "id": 9245,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/syracuse-mets-c5d6a7/9245/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 142
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/syracuse-mets-tickets",
+                    "score": 0.23,
+                    "slug": "syracuse-mets",
+                    "home_venue_id": 70,
+                    "short_name": "Syracuse Mets",
+                    "num_upcoming_events": 142,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 43.0766,
+                        "lon": -76.1652
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Scranton Wilkes-Barre RailRiders",
+                    "image": "https://seatgeek.com/images/performers-landscape/scranton-wilkes-barre-railriders-9fe15b/9261/huge.jpg",
+                    "id": 9261,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/scranton-wilkes-barre-railriders-9fe15b/9261/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 149
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/scranton-wilkes-barre-railriders-tickets",
+                    "score": 0.24,
+                    "slug": "scranton-wilkes-barre-railriders",
+                    "home_venue_id": 5226,
+                    "short_name": "Scranton RailRiders",
+                    "num_upcoming_events": 149,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 41.3606,
+                        "lon": -75.6854
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Scranton RailRiders at Syracuse Mets",
+            "visible_until_utc": "2022-04-07T04:00:00",
+            "stats": {
+                "listing_count": 3,
+                "average_price": 49,
+                "lowest_price_good_deals": 26,
+                "lowest_price": 26,
+                "highest_price": 61,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ],
+                "median_price": 59,
+                "lowest_sg_base_price": 13,
+                "lowest_sg_base_price_good_deals": 13
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/scranton-wilkes-barre-railriders-at-syracuse-mets-tickets/minor-league-baseball/2022-04-06-3-30-am/5563276",
+            "score": 0.321,
+            "announce_date": "2021-11-11T00:00:00",
+            "created_at": "2021-11-11T22:31:43",
+            "date_tbd": false,
+            "title": "Scranton Wilkes-Barre RailRiders at Syracuse Mets",
+            "popularity": 0.706,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {
+                "checkout_disclosures": {
+                    "messages": [
+                        {
+                            "text": "All purchases are 100% guaranteed. Prices set by the seller may be above or below face value."
+                        }
+                    ]
+                }
+            },
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_baseball",
+            "id": 5594176,
+            "datetime_utc": "2022-04-06T07:30:00",
+            "venue": {
+                "state": "VA",
+                "name_v2": "Davenport Field",
+                "postal_code": "22904",
+                "name": "Davenport Field",
+                "links": [],
+                "timezone": "America/New_York",
+                "url": "https://seatgeek.com/venues/davenport-field/tickets",
+                "score": 0.35,
+                "location": {
+                    "lat": 38.03,
+                    "lon": -78.48
+                },
+                "address": "434 Lannigan Lane",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 16,
+                "city": "Charlottesville",
+                "slug": "davenport-field",
+                "extended_address": "Charlottesville, VA 22904",
+                "id": 5367,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 584,
+                "capacity": 0,
+                "display_location": "Charlottesville, VA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_baseball",
+                    "name": "Virginia Cavaliers Baseball",
+                    "image": "https://seatgeek.com/images/performers-landscape/generic-ncaa-baseball-80e23a/677212/35943/huge.jpg",
+                    "id": 9519,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/generic-ncaa-baseball-80e23a/677212/35943/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 28
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010200,
+                            "name": "ncaa_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/virginia-cavaliers-baseball-tickets",
+                    "score": 0.21,
+                    "slug": "virginia-cavaliers-baseball",
+                    "home_venue_id": 5367,
+                    "short_name": "UVA",
+                    "num_upcoming_events": 28,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 38.03,
+                        "lon": -78.48
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_baseball",
+                    "name": "Liberty Flames Baseball",
+                    "image": "https://seatgeek.com/images/performers-landscape/generic-ncaa-baseball-80e23a/677212/35943/huge.jpg",
+                    "id": 106862,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/generic-ncaa-baseball-80e23a/677212/35943/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 28
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010200,
+                            "name": "ncaa_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/liberty-flames-baseball-tickets",
+                    "score": 0.23,
+                    "slug": "liberty-flames-baseball",
+                    "home_venue_id": 463906,
+                    "short_name": "Liberty Flames Baseball",
+                    "num_upcoming_events": 28,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 37.3531,
+                        "lon": -79.177
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Liberty Flames at Virginia Cavaliers Baseball",
+            "visible_until_utc": "2022-04-07T04:00:00",
+            "stats": {
+                "listing_count": 10,
+                "average_price": 14,
+                "lowest_price_good_deals": null,
+                "lowest_price": 11,
+                "highest_price": 18,
+                "visible_listing_count": 10,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 14,
+                "lowest_sg_base_price": 4,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010200,
+                    "name": "ncaa_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/liberty-flames-at-virginia-cavaliers-baseball-tickets/ncaa-baseball/2022-04-06-3-30-am/5594176",
+            "score": 0.253,
+            "announce_date": "2021-12-09T00:00:00",
+            "created_at": "2021-12-09T15:49:01",
+            "date_tbd": false,
+            "title": "Liberty Flames at Virginia Cavaliers Baseball",
+            "popularity": 0.653,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5547417,
+            "datetime_utc": "2022-04-06T07:30:00",
+            "venue": {
+                "state": "PA",
+                "name_v2": "Coca Cola Park",
+                "postal_code": "18101",
+                "name": "Coca Cola Park",
+                "links": [],
+                "timezone": "America/New_York",
+                "url": "https://seatgeek.com/venues/coca-cola-park/tickets",
+                "score": 0.43,
+                "location": {
+                    "lat": 40.6259,
+                    "lon": -75.4527
+                },
+                "address": "1050 Ironpigs Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 74,
+                "city": "Allentown",
+                "slug": "coca-cola-park",
+                "extended_address": "Allentown, PA 18101",
+                "id": 381,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 504,
+                "capacity": 10000,
+                "display_location": "Allentown, PA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Lehigh Valley IronPigs",
+                    "image": "https://seatgeek.com/images/performers-landscape/lehigh-valley-ironpigs-f27c58/9248/huge.jpg",
+                    "id": 9248,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/lehigh-valley-ironpigs-f27c58/9248/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 146
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/lehigh-valley-ironpigs-tickets",
+                    "score": 0.26,
+                    "slug": "lehigh-valley-ironpigs",
+                    "home_venue_id": 381,
+                    "short_name": "Lehigh Valley IronPigs",
+                    "num_upcoming_events": 146,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 40.6259,
+                        "lon": -75.4527
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Columbus Clippers",
+                    "image": "https://seatgeek.com/images/performers-landscape/columbus-clippers-41a4c1/9238/huge.jpg",
+                    "id": 9238,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/columbus-clippers-41a4c1/9238/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 149
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/columbus-clippers-tickets",
+                    "score": 0.25,
+                    "slug": "columbus-clippers",
+                    "home_venue_id": 1935,
+                    "short_name": "Columbus Clippers",
+                    "num_upcoming_events": 149,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 39.9692,
+                        "lon": -83.0122
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Columbus Clippers at Lehigh Valley IronPigs",
+            "visible_until_utc": "2022-04-07T04:00:00",
+            "stats": {
+                "listing_count": 48,
+                "average_price": 25,
+                "lowest_price_good_deals": 18,
+                "lowest_price": 18,
+                "highest_price": 39,
+                "visible_listing_count": 48,
+                "dq_bucket_counts": [
+                    4,
+                    11,
+                    13,
+                    10,
+                    5,
+                    5,
+                    3,
+                    0
+                ],
+                "median_price": 24,
+                "lowest_sg_base_price": 9,
+                "lowest_sg_base_price_good_deals": 9
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/columbus-clippers-at-lehigh-valley-ironpigs-tickets/minor-league-baseball/2022-04-06-3-30-am/5547417",
+            "score": 0.369,
+            "announce_date": "2021-11-01T00:00:00",
+            "created_at": "2021-11-01T18:26:07",
+            "date_tbd": false,
+            "title": "Columbus Clippers at Lehigh Valley IronPigs",
+            "popularity": 0.736,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5572337,
+            "datetime_utc": "2022-04-06T07:30:00",
+            "venue": {
+                "state": "OH",
+                "name_v2": "Fifth Third Field Toledo Parking Lots",
+                "postal_code": "43604",
+                "name": "Fifth Third Field Toledo Parking Lots",
+                "links": [],
+                "timezone": "America/New_York",
+                "url": "https://seatgeek.com/venues/fifth-third-field-toledo-parking-lots/tickets",
+                "score": 0.42,
+                "location": {
+                    "lat": 41.6506,
+                    "lon": -83.5358
+                },
+                "address": "406 Washington St.",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 68,
+                "city": "Toledo",
+                "slug": "fifth-third-field-toledo-parking-lots",
+                "extended_address": "Toledo, OH 43604",
+                "id": 5215,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 547,
+                "capacity": 7230,
+                "display_location": "Toledo, OH"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Toledo Mud Hens",
+                    "image": "https://seatgeek.com/images/performers-landscape/toledo-mud-hens-a4de4b/9244/huge.jpg",
+                    "id": 9244,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/toledo-mud-hens-a4de4b/9244/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 140
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/toledo-mud-hens-tickets",
+                    "score": 0.26,
+                    "slug": "toledo-mud-hens",
+                    "home_venue_id": 5215,
+                    "short_name": "Toledo Mud Hens",
+                    "num_upcoming_events": 140,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 41.6506,
+                        "lon": -83.5358
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Rochester Red Wings",
+                    "image": "https://seatgeek.com/images/performers-landscape/rochester-red-wings-265d7e/9269/huge.jpg",
+                    "id": 9269,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/rochester-red-wings-265d7e/9269/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 143
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/rochester-red-wings-tickets",
+                    "score": 0.23,
+                    "slug": "rochester-red-wings",
+                    "home_venue_id": 4298,
+                    "short_name": "Rochester Red Wings",
+                    "num_upcoming_events": 143,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 43.1584,
+                        "lon": -77.6203
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Rochester Red Wings at Toledo Mud Hens",
+            "visible_until_utc": "2022-04-07T04:00:00",
+            "stats": {
+                "listing_count": 157,
+                "average_price": 47,
+                "lowest_price_good_deals": 12,
+                "lowest_price": 12,
+                "highest_price": 60,
+                "visible_listing_count": 148,
+                "dq_bucket_counts": [
+                    10,
+                    33,
+                    49,
+                    19,
+                    16,
+                    16,
+                    15,
+                    0
+                ],
+                "median_price": 48,
+                "lowest_sg_base_price": 4,
+                "lowest_sg_base_price_good_deals": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/rochester-red-wings-at-toledo-mud-hens-tickets/minor-league-baseball/2022-04-06-3-30-am/5572337",
+            "score": 0.368,
+            "announce_date": "2021-11-18T00:00:00",
+            "created_at": "2021-11-18T20:21:48",
+            "date_tbd": false,
+            "title": "Rochester Red Wings at Toledo Mud Hens",
+            "popularity": 0.736,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5548659,
+            "datetime_utc": "2022-04-06T07:30:00",
+            "venue": {
+                "state": "KY",
+                "name_v2": "Louisville Slugger Field",
+                "postal_code": "40202",
+                "name": "Louisville Slugger Field",
+                "links": [],
+                "timezone": "America/Kentucky/Louisville",
+                "url": "https://seatgeek.com/venues/louisville-slugger-field/tickets",
+                "score": 0.44,
+                "location": {
+                    "lat": 38.2556,
+                    "lon": -85.7442
+                },
+                "address": "401 East Main Street",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 72,
+                "city": "Louisville",
+                "slug": "louisville-slugger-field",
+                "extended_address": "Louisville, KY 40202",
+                "id": 377,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE",
+                    "created_at": "2019-03-05T18:35:15Z",
+                    "employee_only": false
+                },
+                "metro_code": 529,
+                "capacity": 13131,
+                "display_location": "Louisville, KY"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Louisville Bats",
+                    "image": "https://seatgeek.com/images/performers-landscape/louisville-bats-13bee5/9239/huge.jpg",
+                    "id": 9239,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/louisville-bats-13bee5/9239/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 147
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/louisville-bats-tickets",
+                    "score": 0.28,
+                    "slug": "louisville-bats",
+                    "home_venue_id": 377,
+                    "short_name": "Louisville Bats",
+                    "num_upcoming_events": 147,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 38.2556,
+                        "lon": -85.7442
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "St. Paul Saints\t",
+                    "image": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg",
+                    "id": 15655,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 143
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/st-paul-saints-tickets",
+                    "score": 0.3,
+                    "slug": "st-paul-saints",
+                    "home_venue_id": 77980,
+                    "short_name": "St. Paul Saints\t",
+                    "num_upcoming_events": 143,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 44.9505,
+                        "lon": -93.0851
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "St. Paul Saints at Louisville Bats",
+            "visible_until_utc": "2022-04-07T04:00:00",
+            "stats": {
+                "listing_count": 132,
+                "average_price": 50,
+                "lowest_price_good_deals": 11,
+                "lowest_price": 11,
+                "highest_price": 123,
+                "visible_listing_count": 132,
+                "dq_bucket_counts": [
+                    11,
+                    13,
+                    57,
+                    12,
+                    15,
+                    2,
+                    20,
+                    0
+                ],
+                "median_price": 46,
+                "lowest_sg_base_price": 4,
+                "lowest_sg_base_price_good_deals": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/st-paul-saints-at-louisville-bats-tickets/minor-league-baseball/2022-04-06-3-30-am/5548659",
+            "score": 0.488,
+            "announce_date": "2021-11-02T00:00:00",
+            "created_at": "2021-11-02T16:57:00",
+            "date_tbd": false,
+            "title": "St. Paul Saints at Louisville Bats",
+            "popularity": 0.785,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE",
+                "created_at": "2019-03-05T18:35:15Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5587069,
+            "datetime_utc": "2022-04-06T08:30:00",
+            "venue": {
+                "state": "OK",
+                "name_v2": "Chickasaw Bricktown Ballpark",
+                "postal_code": "73104",
+                "name": "Chickasaw Bricktown Ballpark",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/chickasaw-bricktown-ballpark/tickets",
+                "score": 0.41,
+                "location": {
+                    "lat": 35.4647,
+                    "lon": -97.5086
+                },
+                "address": "2 South Mickey Mantle Drive",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 71,
+                "city": "Oklahoma City",
+                "slug": "chickasaw-bricktown-ballpark",
+                "extended_address": "Oklahoma City, OK 73104",
+                "id": 7365,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 650,
+                "capacity": 13066,
+                "display_location": "Oklahoma City, OK"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "OKC Dodgers",
+                    "image": "https://seatgeek.com/images/performers-landscape/okc-dodgers-9231ec/9297/4390/huge.jpg",
+                    "id": 9297,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/okc-dodgers-9231ec/9297/4390/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 141
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/okc-dodgers-tickets",
+                    "score": 0.25,
+                    "slug": "okc-dodgers",
+                    "home_venue_id": 7365,
+                    "short_name": "Oklahoma City RedHawks",
+                    "num_upcoming_events": 141,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 35.4647,
+                        "lon": -97.5086
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Albuquerque Isotopes",
+                    "image": "https://seatgeek.com/images/performers-landscape/albuquerque-isotopes-49e4ca/9242/huge.jpg",
+                    "id": 9242,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/albuquerque-isotopes-49e4ca/9242/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 145
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/albuquerque-isotopes-tickets",
+                    "score": 0.28,
+                    "slug": "albuquerque-isotopes",
+                    "home_venue_id": 519152,
+                    "short_name": "Albuquerque Isotopes",
+                    "num_upcoming_events": 145,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 35.0691,
+                        "lon": -106.629
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Albuquerque Isotopes at OKC Dodgers",
+            "visible_until_utc": "2022-04-07T05:00:00",
+            "stats": {
+                "listing_count": 197,
+                "average_price": 55,
+                "lowest_price_good_deals": null,
+                "lowest_price": 32,
+                "highest_price": 70,
+                "visible_listing_count": 197,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 49,
+                "lowest_sg_base_price": 20,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/albuquerque-isotopes-at-okc-dodgers-tickets/minor-league-baseball/2022-04-06-3-30-am/5587069",
+            "score": 0.36,
+            "announce_date": "2021-12-02T00:00:00",
+            "created_at": "2021-12-02T16:00:15",
+            "date_tbd": false,
+            "title": "Albuquerque Isotopes at OKC Dodgers",
+            "popularity": 0.728,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5548744,
+            "datetime_utc": "2022-04-06T08:30:00",
+            "venue": {
+                "state": "TN",
+                "name_v2": "AutoZone Park",
+                "postal_code": "38103",
+                "name": "AutoZone Park",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/autozone-park/tickets",
+                "score": 0.42,
+                "location": {
+                    "lat": 35.1422,
+                    "lon": -90.0496
+                },
+                "address": "200 Union Avenue",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 86,
+                "city": "Memphis",
+                "slug": "autozone-park",
+                "extended_address": "Memphis, TN 38103",
+                "id": 4297,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 640,
+                "capacity": 0,
+                "display_location": "Memphis, TN"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Memphis Redbirds",
+                    "image": "https://seatgeek.com/images/performers-landscape/memphis-redbirds-22dd4a/9253/huge.jpg",
+                    "id": 9253,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/memphis-redbirds-22dd4a/9253/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 147
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/memphis-redbirds-tickets",
+                    "score": 0.26,
+                    "slug": "memphis-redbirds",
+                    "home_venue_id": 4297,
+                    "short_name": "Memphis Redbirds",
+                    "num_upcoming_events": 147,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 35.1422,
+                        "lon": -90.0496
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Gwinnett Stripers",
+                    "image": "https://seatgeek.com/images/performers-landscape/gwinnett-stripers-d291f4/9247/huge.jpg",
+                    "id": 9247,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/gwinnett-stripers-d291f4/9247/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 147
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/gwinnett-stripers-tickets",
+                    "score": 0.29,
+                    "slug": "gwinnett-stripers",
+                    "home_venue_id": 4278,
+                    "short_name": "Gwinnett Braves",
+                    "num_upcoming_events": 147,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 34.0412,
+                        "lon": -83.9931
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Gwinnett Stripers at Memphis Redbirds",
+            "visible_until_utc": "2022-04-07T05:00:00",
+            "stats": {
+                "listing_count": 10,
+                "average_price": 38,
+                "lowest_price_good_deals": null,
+                "lowest_price": 22,
+                "highest_price": 60,
+                "visible_listing_count": 10,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 30,
+                "lowest_sg_base_price": 12,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/gwinnett-stripers-at-memphis-redbirds-tickets/minor-league-baseball/2022-04-06-3-30-am/5548744",
+            "score": 0.358,
+            "announce_date": "2021-11-02T00:00:00",
+            "created_at": "2021-11-02T19:11:40",
+            "date_tbd": false,
+            "title": "Gwinnett Stripers at Memphis Redbirds",
+            "popularity": 0.71,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5550022,
+            "datetime_utc": "2022-04-06T08:30:00",
+            "venue": {
+                "state": "TX",
+                "name_v2": "Dell Diamond",
+                "postal_code": "78665",
+                "name": "Dell Diamond",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/dell-diamond/tickets",
+                "score": 0.41,
+                "location": {
+                    "lat": 30.5277,
+                    "lon": -97.6301
+                },
+                "address": "3400 E Palm Valley Blvd",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 71,
+                "city": "Round Rock",
+                "slug": "dell-diamond",
+                "extended_address": "Round Rock, TX 78665",
+                "id": 391,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 635,
+                "capacity": 11722,
+                "display_location": "Round Rock, TX"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Round Rock Express",
+                    "image": "https://seatgeek.com/images/performers-landscape/round-rock-express-f7790d/9280/huge.jpg",
+                    "id": 9280,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/round-rock-express-f7790d/9280/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 152
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/round-rock-express-tickets",
+                    "score": 0.25,
+                    "slug": "round-rock-express",
+                    "home_venue_id": 391,
+                    "short_name": "Round Rock Express",
+                    "num_upcoming_events": 152,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 30.5277,
+                        "lon": -97.6301
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "El Paso Chihuahuas",
+                    "image": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg",
+                    "id": 265222,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 145
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/el-paso-chihuahuas-tickets",
+                    "score": 0.26,
+                    "slug": "el-paso-chihuahuas",
+                    "home_venue_id": 60027,
+                    "short_name": "El Paso Chihuahuas",
+                    "num_upcoming_events": 145,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 31.7593,
+                        "lon": -106.493
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "El Paso Chihuahuas at Round Rock Express",
+            "visible_until_utc": "2022-04-07T05:00:00",
+            "stats": {
+                "listing_count": 5,
+                "average_price": 54,
+                "lowest_price_good_deals": 35,
+                "lowest_price": 35,
+                "highest_price": 72,
+                "visible_listing_count": 5,
+                "dq_bucket_counts": [
+                    0,
+                    2,
+                    2,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0
+                ],
+                "median_price": 50,
+                "lowest_sg_base_price": 21,
+                "lowest_sg_base_price_good_deals": 21
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/el-paso-chihuahuas-at-round-rock-express-tickets/minor-league-baseball/2022-04-06-3-30-am/5550022",
+            "score": 0.368,
+            "announce_date": "2021-11-03T00:00:00",
+            "created_at": "2021-11-03T21:57:48",
+            "date_tbd": false,
+            "title": "El Paso Chihuahuas at Round Rock Express",
+            "popularity": 0.739,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "concert",
+            "id": 5595900,
+            "datetime_utc": "2022-04-06T08:30:00",
+            "venue": {
+                "state": "TX",
+                "name_v2": "Warehouse Live",
+                "postal_code": "77003",
+                "name": "Warehouse Live",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/warehouse-live/tickets",
+                "score": 0.46,
+                "location": {
+                    "lat": 29.7521,
+                    "lon": -95.3547
+                },
+                "address": "813 Saint Emanuel Street",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 37,
+                "city": "Houston",
+                "slug": "warehouse-live",
+                "extended_address": "Houston, TX 77003",
+                "id": 449,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 618,
+                "capacity": 2030,
+                "display_location": "Houston, TX"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "The Darkness",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-darkness-11c450/13789/huge.jpg",
+                    "id": 13789,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-darkness-11c450/13789/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "Brian Rasic / WireImage / Getty Images",
+                    "url": "https://seatgeek.com/the-darkness-tickets",
+                    "score": 0.29,
+                    "slug": "the-darkness",
+                    "home_venue_id": null,
+                    "short_name": "The Darkness",
+                    "num_upcoming_events": 13,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/paul-mccartney-280a30/1408/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/paul-mccartney-800f62/1408/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/paul-mccartney-e69eab/1408/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/paul-mccartney-831276/1408/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/paul-mccartney-e0ec70/1408/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/paul-mccartney-dd5e68/1408/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/paul-mccartney-025324/1408/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/paul-mccartney-e7f7ef/1408/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/paul-mccartney-44079a/1408/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/paul-mccartney-90ffa5/1408/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/paul-mccartney-41ba72/1408/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/paul-mccartney-b49013/1408/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/paul-mccartney-9fd541/1408/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/paul-mccartney-392a5e/1408/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/paul-mccartney-4a4571/1408/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/paul-mccartney-235bd6/1408/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/paul-mccartney-af6990/1408/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/paul-mccartney-fcc6ba/1408/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/paul-mccartney-a45191/1408/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/paul-mccartney-db76ec/1408/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/paul-mccartney-392a5e/1408/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/justin-bieber-437b92/2446/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/justin-bieber-732c8c/2446/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/justin-bieber-9b0216/2446/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/justin-bieber-1bb6ef/2446/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/justin-bieber-63a1aa/2446/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/justin-bieber-0e193f/2446/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/justin-bieber-64c402/2446/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/justin-bieber-fbb0d4/2446/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/justin-bieber-61bac8/2446/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/justin-bieber-718312/2446/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/justin-bieber-c31e79/2446/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/justin-bieber-8d5289/2446/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/justin-bieber-d61320/2446/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/justin-bieber-799655/2446/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/justin-bieber-acd73d/2446/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/justin-bieber-7a694a/2446/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/justin-bieber-50aa0b/2446/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/justin-bieber-0befe8/2446/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/justin-bieber-b30e14/2446/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/justin-bieber-0eee83/2446/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/justin-bieber-799655/2446/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 473,
+                            "name": "Hard Rock",
+                            "slug": "hard-rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-174abd/247632/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-51c8bc/247632/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-edc4a4/247632/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-091820/247632/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-b1bdd0/247632/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-b75df8/247632/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-c9497c/247632/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-60327e/247632/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-c34195/247632/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-7167a4/247632/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-4045dc/247632/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-f29c8b/247632/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-07b75d/247632/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-f2e248/247632/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-621967/247632/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-e757bc/247632/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-6cc50e/247632/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-180f30/247632/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-62b13f/247632/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-e4b024/247632/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-f2e248/247632/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 472,
+                            "name": "Classic Rock",
+                            "slug": "classic-rock",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/elton-john-d4cc19/681/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/elton-john-b725ad/681/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/elton-john-93a69e/681/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/elton-john-eb0e8a/681/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/elton-john-f514ce/681/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/elton-john-3d246d/681/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/elton-john-1a3f51/681/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/elton-john-76b41e/681/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/elton-john-43bfbc/681/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/elton-john-1047fe/681/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/elton-john-e3fa92/681/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/elton-john-25726b/681/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/elton-john-7fbfbc/681/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/elton-john-e34113/681/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/elton-john-06779d/681/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/elton-john-86ec47/681/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/elton-john-3db576/681/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/elton-john-56d460/681/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/elton-john-bf381e/681/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/elton-john-3ad6c5/681/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/elton-john-e34113/681/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Brian Rasic / WireImage / Getty Images"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "The Darkness",
+            "visible_until_utc": "2022-04-07T05:00:00",
+            "stats": {
+                "listing_count": 3,
+                "average_price": 110,
+                "lowest_price_good_deals": null,
+                "lowest_price": 47,
+                "highest_price": 191,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 92,
+                "lowest_sg_base_price": 30,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 1
+                }
+            ],
+            "url": "https://seatgeek.com/the-darkness-tickets/houston-texas-warehouse-live-2022-04-06-3-30-am/concert/5595900",
+            "score": 0.402,
+            "announce_date": "2021-12-10T00:00:00",
+            "created_at": "2021-12-10T21:04:56",
+            "date_tbd": false,
+            "title": "The Darkness",
+            "popularity": 0.726,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "minor_league_baseball",
+            "id": 5557530,
+            "datetime_utc": "2022-04-06T10:30:00",
+            "venue": {
+                "state": "CA",
+                "name_v2": "Sutter Health Park",
+                "postal_code": "95691",
+                "name": "Sutter Health Park",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/sutter-health-park/tickets",
+                "score": 0.45,
+                "location": {
+                    "lat": 38.5804,
+                    "lon": -121.514
+                },
+                "address": "400 Ballpark Drive",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 74,
+                "city": "West Sacramento",
+                "slug": "sutter-health-park",
+                "extended_address": "West Sacramento, CA 95691",
+                "id": 317,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 862,
+                "capacity": 14111,
+                "display_location": "West Sacramento, CA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "baseball",
+                    "name": "Sacramento River Cats",
+                    "image": "https://seatgeek.com/images/performers-landscape/sacramento-river-cats-20384c/9258/huge.jpg",
+                    "id": 9258,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/sacramento-river-cats-20384c/9258/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 149
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/sacramento-river-cats-tickets",
+                    "score": 0.26,
+                    "slug": "sacramento-river-cats",
+                    "home_venue_id": 317,
+                    "short_name": "Sacramento River Cats",
+                    "num_upcoming_events": 149,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 38.5804,
+                        "lon": -121.514
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "minor_league_baseball",
+                    "name": "Sugar Land Space Cowboys",
+                    "image": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg",
+                    "id": 18853,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/generic-minor-league-baseball-9c1f76/677210/35944/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 143
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010000,
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1010300,
+                            "name": "minor_league_baseball",
+                            "parent_id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/sugar-land-space-cowboys-tickets",
+                    "score": 0.3,
+                    "slug": "sugar-land-space-cowboys",
+                    "home_venue_id": 8248,
+                    "short_name": "Sugar Land Space Cowboys",
+                    "num_upcoming_events": 143,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 29.6224,
+                        "lon": -95.6473
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-04-06T03:30:00",
+            "time_tbd": true,
+            "short_title": "Sugar Land Skeeters at Sacramento River Cats",
+            "visible_until_utc": "2022-04-07T07:00:00",
+            "stats": {
+                "listing_count": 264,
+                "average_price": 64,
+                "lowest_price_good_deals": 35,
+                "lowest_price": 35,
+                "highest_price": 140,
+                "visible_listing_count": 261,
+                "dq_bucket_counts": [
+                    15,
+                    72,
+                    82,
+                    33,
+                    34,
+                    21,
+                    10,
+                    0
+                ],
+                "median_price": 56,
+                "lowest_sg_base_price": 21,
+                "lowest_sg_base_price_good_deals": 21
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1010000,
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1010300,
+                    "name": "minor_league_baseball",
+                    "parent_id": 1010000,
+                    "rank": 0
+                }
+            ],
+            "url": "https://seatgeek.com/sugar-land-skeeters-at-sacramento-river-cats-tickets/minor-league-baseball/2022-04-06-3-30-am/5557530",
+            "score": 0.361,
+            "announce_date": "2021-11-07T00:00:00",
+            "created_at": "2021-11-07T17:18:42",
+            "date_tbd": false,
+            "title": "Sugar Land Skeeters at Sacramento River Cats",
+            "popularity": 0.735,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "total": 87834,
+        "took": 13,
+        "page": 1,
+        "per_page": 10,
+        "geolocation": null
+    }
+}
